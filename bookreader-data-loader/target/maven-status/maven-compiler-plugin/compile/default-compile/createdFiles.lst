@@ -1,0 +1,6 @@
+com/myproject/bookreader/book/BookRepository.class
+com/myproject/bookreader/book/Book.class
+com/myproject/bookreader/BookReaderDataLoaderApplication.class
+connection/DataStaxAstraProperties.class
+com/myproject/bookreader/author/Author.class
+com/myproject/bookreader/author/AuthorRepository.class
